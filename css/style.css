@@ -111,3 +111,9 @@ p {
 					Tahoma, sans-serif; 
 	color: dodgerblue; 
 }
+h3{
+    text-align: center;
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: monospace;
+}
